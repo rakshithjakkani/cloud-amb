@@ -1,5 +1,5 @@
 1. Deploy a Simple Web Application
-===================================
+
 Aim: Deploying a sample python web application on EC2 and exposing it to public via Application load balancer
 
 Pre-requisites: 
