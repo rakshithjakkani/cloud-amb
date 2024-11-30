@@ -1,5 +1,5 @@
 2. Set Up a Virtualized Environment Using Docker
-=================================================
+
 Aim: Deploy python web application in docker 
 
 pre-requesites:
